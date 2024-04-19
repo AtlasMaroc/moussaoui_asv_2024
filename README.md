@@ -1,5 +1,5 @@
 
-Code Club Project: Assesing whether intra and inter-genomic variation hinde rthe utility of Amplicon Sequence Variotion
+Code Club Project: Assesing whether intra and inter-genomic variation hinder the utility of Amplicon Sequence Variotion
 
 Author: Mohamed El Moussaoui
 
